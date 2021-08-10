@@ -1,0 +1,4 @@
+2021-08-09T22:39:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\jlb_challenge\wp-admin\includes\class-wp-filesystem-direct.php on line 66
+
+2021-08-09T22:41:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\jlb_challenge\wp-admin\includes\class-wp-filesystem-direct.php on line 173
+
